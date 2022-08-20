@@ -1,0 +1,43 @@
+String methods
+return data types
+substring() -> string 
+indexOf()   -> int
+charAt()    -> char
+
+
+toCharArray() -> char[] (Array of chars in the string)
+split()  -> String[] 
+// Takes one string paramter which is dividing point
+// To make an array out of string
+String str = "two words"
+    String[] arr =      str.split(" ")
+
+  sout(Arrays.toString(arr));
+  ["two","words"]
+
+  String[] arr1 = str.split("w");
+
+sout(Arrays.toString(arr1));
+["t","o ","ords"]
+
+str = "two words";
+  String[] arr2 = str.split("wo");
+
+sout(Arrays.toString(arr1));
+["t"," ","rds"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

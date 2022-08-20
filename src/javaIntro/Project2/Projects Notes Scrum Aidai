@@ -1,0 +1,22 @@
+Task 1
+
+Testing functionality of Google search bar
+
+1.Go to google.com on any browser;
+
+2.Type weather today - search returns results;
+Test goals: to see a weather result in preferred location;
+
+if not -
+
+3. Type weather today near me - see if the result shows current location weather;
+-if not, go to settings and change location location permission;
+4. Type weather today near me - see if the result now shows current location weather;
+
+5. Search function is working as expected.
+
+Task 2
+
+2.36
+
+9 quarters
